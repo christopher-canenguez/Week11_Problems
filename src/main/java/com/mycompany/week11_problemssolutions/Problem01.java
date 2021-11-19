@@ -57,5 +57,4 @@ public class Problem01 {
             indexB--;
         }
     }
-
 }
